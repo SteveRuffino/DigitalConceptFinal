@@ -2,7 +2,7 @@
 
 ## Code Blocks
 
-For multi-line code blocks, use triple backticks. This allows you to format code neatly and make it easier to read.
+For multi-line code blocks, use triple backticks before and after the code.
 
 Example: ``def hello_world(): print("Hello, world!")``
 
@@ -10,7 +10,7 @@ Example: ``def hello_world(): print("Hello, world!")``
 
 ## Checklists
 
-Markdown supports checklists, which are useful for task tracking or project management.
+Markdown also supports checklists, which are useful for tracking tasks or project management.
 
 Example:
 
@@ -30,3 +30,11 @@ You can specify programming languages for syntax highlighting within code blocks
 def greet(name):
     return f"Hello, {name}!"
 ```
+
+# Easter Egg
+
+Now that you made it **~~This Far~~**, I will demo some cool features.
+
+<center> Here is an emoji with text centered: 🎉 </center>
+
+

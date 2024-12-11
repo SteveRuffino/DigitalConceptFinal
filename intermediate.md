@@ -34,4 +34,4 @@ To create a table:
 
 ### Usage
 
-Use links for navigation, images for visuals, and tables for structured data in your documentation.
+Use links for navigation, use images for visuals, and use tables for structured data in your documentation.
